@@ -29,4 +29,4 @@ To build practical software solutions and grow into a professional software engi
 
 ### Connect With Me
 - LinkedIn: www.linkedin.com/in/wisdom-oviemuno
-- Email: wisdomovieajiri@outlook.com
+- Email: wisdomovieajiri@gmail.com
