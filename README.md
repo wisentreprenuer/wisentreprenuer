@@ -1,7 +1,7 @@
 ## Hi, I'm Wisdom 👋
 
 ### About Me
-I am passionate about Computers and Systems that make life easy for everyday people. I am currently learning tools and tech stacks that would allow me to build and work on apps that meet the needs of both myself and those around me.
+I am passionate about Computers and Systems that make life easy for everyday people. I am currently learning tools and tech stacks that enables me to build and work on apps that meet the needs of both myself and those around me.
 
 ### Education
 BSc. Computer Science & Informatics
